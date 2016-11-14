@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#Promedio
+
 def promedio(**numeros):
 	sum = 0
 	for n in numeros:
